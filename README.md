@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BillDave1
+- 👋 Hi, I’m David Selasie Nutakor
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CS50x
+- 🌱 I am learning front end programing (HTML, CSS, JavaScript)
 - 💞️ I’m looking to collaborate on knowing much about coding
-- 📫 How to reach me via email davidselasienutakor@gmail.com
+- 📫 Reach me via email davidselasienutakor@gmail.com
 <!---
-BillDave1/BillDave1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+David Selasie Nutakor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
